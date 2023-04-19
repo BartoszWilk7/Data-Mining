@@ -23,3 +23,9 @@ Unordered list:
 - Second item
 - Third item
 
+This text is **bold**.
+This text is *italic*.
+This text is ***bold and italic***.
+
+
+The area of a circle with radius `r` is `$\pi r^2$`.
