@@ -28,4 +28,4 @@ Unordered list:
 ### This text is ***bold and italic***.
 
 ### Equation:
-The area of a circle with radius `r` is `$\pi r^2$`.
+$\sqrt{3x-1}+(1+x)^2$
