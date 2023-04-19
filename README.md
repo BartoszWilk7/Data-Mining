@@ -10,7 +10,7 @@ Table:
 | Maja | 27  | Female |
 
 
-###Hyperlink:
+### Hyperlink:
 [Click here](https://github.com/BartoszWilk7/Data-Mining/edit/main/README.md) to visit my document.
 
 Ordered list:
@@ -23,9 +23,9 @@ Unordered list:
 - Second item
 - Third item
 
-###This text is **bold**.
-###This text is *italic*.
-###This text is ***bold and italic***.
+### This text is **bold**.
+### This text is *italic*.
+### This text is ***bold and italic***.
 
-###Equation:
+### Equation:
 The area of a circle with radius `r` is `$\pi r^2$`.
